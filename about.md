@@ -3,7 +3,7 @@ title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/06/28/flower-729514_1920.jpg"
 heading: About Belkirk
-sub_heading: Ora et Labora
+sub_heading: 'as dkfhaskdjf asdkjf alskjdf '
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
   research.
